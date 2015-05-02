@@ -8,5 +8,5 @@ Usage:
 
 
 
-Fix implimented by Rangar Jensen on the Element14 forum:
+Fix implemented by Rangar Jensen on the Element14 forum:
 http://www.element14.com/community/message/125828/l/re-darkice-12-with-latest-wolfson-master-image#125828
